@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/br/com/cesarschool/poo/titulos/entidades/Acao.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/br/com/cesarschool/poo/titulos/entidades/Ativo.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/br/com/cesarschool/poo/titulos/entidades/EntidadeOperadora.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/br/com/cesarschool/poo/titulos/entidades/TituloDivida.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/br/com/cesarschool/poo/titulos/entidades/Transacao.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/br/com/cesarschool/poo/titulos/repositorios/RepositorioAcao.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/br/com/cesarschool/poo/titulos/repositorios/RepositorioEntidadeOperadora.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/br/com/cesarschool/poo/titulos/repositorios/RepositorioTituloDivida.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/br/com/cesarschool/poo/titulos/repositorios/RepositorioTransacao.java" charset="ISO-8859-1" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+103;caminhaaaaaaa;true;0.0;0.0
+101;ENTIDADEZEROUM;true;2.0;0.0
+102;ENTIDADEZERODOIS;true;0.0;0.0
+201;CAIOLIMAAA;true;0.0;0.0
+202;rodrigoooo;true;0.0;0.0
+343;robertaaaaa;true;14.0;1.0
+456;victoriamaria;true;12.0;44.0
+876;brenoegayyyy;true;8.0;69.0
